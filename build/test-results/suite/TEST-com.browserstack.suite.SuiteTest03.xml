@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.browserstack.suite.SuiteTest03" tests="2" skipped="2" failures="0" errors="0" timestamp="2019-12-26T12:55:55" hostname="Nithyas-MacBook-Pro.local" time="25.498">
+  <properties/>
+  <testcase name="test_03" classname="com.browserstack.suite.SuiteTest03" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="test_03" classname="com.browserstack.suite.SuiteTest03" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

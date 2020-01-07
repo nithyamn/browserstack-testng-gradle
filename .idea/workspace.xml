@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f54c7c1-d45f-476c-a71c-4045fb0589cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-browserstack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/.gradle/6.0.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/Single/SingleTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/Single/SingleTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/Single/SingleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/Single/SingleTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/classes/com.browserstack.SingleTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/classes/com.browserstack.SingleTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/junitreports/TEST-com.browserstack.SingleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/junitreports/TEST-com.browserstack.SingleTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/old/Single/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/old/Single/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/old/Single/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/old/Single/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/packages/com.browserstack.html" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/packages/com.browserstack.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/reports/tests/single/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/test-results/single/TEST-com.browserstack.SingleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/test-results/single/TEST-com.browserstack.SingleTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/build/test-results/single/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/build/test-results/single/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-browserstack/config/suite.testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-browserstack/config/suite.testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng-browserstack" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,49 +16,18 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testng-browserstack/build.gradle">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="66" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="40" selection-end-column="66" />
-            </state>
+            <state relative-caret-position="-411" />
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng-browserstack/config/suite.testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng-browserstack/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng-browserstack/src/test/resources/conf/local.conf.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng-browserstack/src/test/java/com/browserstack/suite/SuiteTest01.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng-browserstack/src/test/java/com/browserstack/suite/SuiteTest02.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/testng-browserstack" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -111,6 +59,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,23 +67,18 @@
               <item name="TestNGGradle" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestNGGradle" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TestNGGradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestNGGradle" type="462c0819:PsiDirectoryNode" />
-              <item name="testng-browserstack" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,7 +108,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="793" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -192,30 +136,15 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testng-browserstack/src/test/resources/conf/local.conf.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng-browserstack/src/test/java/com/browserstack/suite/SuiteTest01.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng-browserstack/src/test/java/com/browserstack/suite/SuiteTest02.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng-browserstack/config/suite.testng.xml">
+    <entry file="file://$PROJECT_DIR$/testng-browserstack/src/test/resources/conf/local.conf.json" />
+    <entry file="file://$PROJECT_DIR$/testng-browserstack/src/test/java/com/browserstack/suite/SuiteTest01.java" />
+    <entry file="file://$PROJECT_DIR$/testng-browserstack/src/test/java/com/browserstack/suite/SuiteTest02.java" />
+    <entry file="file://$PROJECT_DIR$/testng-browserstack/config/suite.testng.xml" />
+    <entry file="file://$PROJECT_DIR$/testng-browserstack/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/testng-browserstack/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng-browserstack/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng-browserstack/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="66" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="40" selection-end-column="66" />
-        </state>
+        <state relative-caret-position="-411" />
       </provider>
     </entry>
   </component>

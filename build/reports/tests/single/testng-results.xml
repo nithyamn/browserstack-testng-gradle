@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Single" duration-ms="13334" started-at="2019-12-26T12:52:10Z" finished-at="2019-12-26T12:52:23Z">
+    <groups>
+    </groups>
+    <test name="SingleTest" duration-ms="13334" started-at="2019-12-26T12:52:10Z" finished-at="2019-12-26T12:52:23Z">
+      <class name="com.browserstack.SingleTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.browserstack.SingleTest@677d86f9]" name="setUp" is-config="true" duration-ms="4232" started-at="2019-12-26T18:22:10Z" finished-at="2019-12-26T18:22:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[single.conf.json]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.browserstack.SingleTest@677d86f9]" name="test" duration-ms="8025" started-at="2019-12-26T18:22:14Z" finished-at="2019-12-26T18:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.browserstack.SingleTest@677d86f9]" name="tearDown" is-config="true" duration-ms="1067" started-at="2019-12-26T18:22:22Z" finished-at="2019-12-26T18:22:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.SingleTest -->
+    </test> <!-- SingleTest -->
+  </suite> <!-- Single -->
+</testng-results>
